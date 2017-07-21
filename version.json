@@ -1,7 +1,7 @@
 {
     "status": "200",
     "data": {
-        "version": "1.0.1",
+        "version": "1.1",
         "info": "添加了支付功能，添加了用户的定位功能...",
         "appurl": "https://xm12.github.io/app-release.apk"
     }
