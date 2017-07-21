@@ -1,1 +1,8 @@
-# XM12.github.io
+{
+    "status": "200",
+    "data": {
+        "version": "1.0.1",
+        "info": "添加了支付功能，添加了用户的定位功能...",
+        "appurl": "https://guaju.github.io/1.0.1.apk"
+    }
+}
